@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Random ahhh button</title>
+<link rel= icon href=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJCr-9GqYal1-7_b0ZvC6kTU50pjt1JVLvw&s >
+
+<style>
+body {
+	font-family: Arial;
+	font-size: 21px;
+	text-align: center;
+	color: #8a170f;
+	background-color: #f7beba;
+	overflow: hidden;
+}
+	
+a {
+	font-family: Arial;
+	text-decoration: none;
+	color: white;
+	padding: 12px;
+	border-radius: 9px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.Yess {
+font-size: 300px;
+}
+
+.Noo {
+font-size: 15px;
+
+}
+</style>
+</head>	
+<body>
+
+
+<a style= "background-color: #05ab10;" href="file:///C:/Users/jojoh/OneDrive/Desktop/html%20files/page%201.html" class= "Yess">Yes</a>
+<a style= "background-color: #a60202;"   href= "file:///C:/Users/jojoh/OneDrive/Desktop/html%20files/page%208.%20html" class= "Noo" ><b>If you say no, I will be really sad....</b></a>
+<br>
+<br>
+<br>
+<br>
+<img src= "https://media.tenor.com/amqZM4E_SjIAAAAj/blue-cat.gif" "alt= dancing cat" width=500px; >
+</body>
+</html>
